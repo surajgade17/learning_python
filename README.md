@@ -8,17 +8,23 @@ This repo is my working log: everything here is meant to be useful to *me* later
 
 | File | Topic |
 |---|---|
-| `Expressions_and_Variables.ipynb` | Python expressions, variable assignment, operators |
-| `Types.ipynb` | Data types — int, float, str, bool, and type conversion |
+| `Expressions_and_Variables.ipynb` | Expressions, variable assignment, operators |
+| `Types.ipynb` | Data types: int, float, str, bool, type conversion |
+| `String_Operations.ipynb` | Indexing, slicing, stride, concatenation, escape sequences |
+| `Lists_in_Python.ipynb` | List operations and methods |
+| `Tuples_in_Python.ipynb` | Tuple operations and immutability |
+| `Sets_in_Python.ipynb` | Set operations and methods |
+| `Conditions_and_Branching.ipynb` | Comparison operators, if / elif / else |
+| `Loops_in_Python.ipynb` | for loops, while loops, range() |
 | `requirements.txt` | Project dependencies |
-| `.devcotainer/` | Dev container config for a consistent coding environment |
+| `.devcotainer/` | Dev container config |
 
-*(This table will grow as new notebooks are added.)*
+*(This table grows as new notebooks are added.)*
 
 ## 🎯 Purpose
 
-- Build a strong Python foundation — syntax, data structures, OOP, file handling
-- Practice consistently with daily/near-daily commits
+- Build a strong Python foundation: syntax, data structures, OOP, file handling
+- Practice consistently with daily commits
 
 ## 🛠️ Tools
 
@@ -30,7 +36,13 @@ This repo is my working log: everything here is meant to be useful to *me* later
 
 - [x] Variables & expressions
 - [x] Data types
-- [ ] Control flow (loops, conditionals)
+- [x] Strings
+- [x] Lists
+- [x] Tuples
+- [x] Sets
+- [x] Conditions & branching
+- [x] Loops
+- [ ] Dictionaries
 - [ ] Functions
 - [ ] File handling
 - [ ] OOP basics
