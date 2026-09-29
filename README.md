@@ -8,7 +8,7 @@ This repo is my working log: everything here is meant to be useful to *me* later
 
 | File | Topic |
 |---|---|
-|'Dictionaries_in_Python.ipynb'| Dictionaty operations and methods |
+|`Dictionaries_in_Python.ipynb`| Dictionary operations and methods |
 | `Expressions_and_Variables.ipynb` | Expressions, variable assignment, operators |
 | `Types.ipynb` | Data types: int, float, str, bool, type conversion |
 | `String_Operations.ipynb` | Indexing, slicing, stride, concatenation, escape sequences |
