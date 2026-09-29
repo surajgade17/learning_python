@@ -42,7 +42,7 @@ This repo is my working log: everything here is meant to be useful to *me* later
 - [x] Sets
 - [x] Conditions & branching
 - [x] Loops
-- [ ] Dictionaries
+- [x] Dictionaries
 - [ ] Functions
 - [ ] File handling
 - [ ] OOP basics
